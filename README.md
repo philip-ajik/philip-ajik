@@ -1,5 +1,5 @@
 # Hi, I'm Ajik Philip Danny 👋
-> SOC Analyst in Training | Junior Cyber Analyst
+> SOC Analyst in Training | Junior Cyber Analyst |
 Computer Science student at Plateau State University Bokkos, Nigeria
 - building a career in cybersecurity through daily hands-on practice.
 I document every lab, every tool, and every lesson publicly.
