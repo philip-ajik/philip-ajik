@@ -11,7 +11,7 @@ I document every lab, every tool, and every lesson publicly.
 - Phishing analysis, network traffic analysis, SIEM, EDR, SOAR
 - Wireshark, Splunk, ELK, NetworkMiner, CyberChef
 - Frameworks: MITRE ATT&CK, Cyber Kill Chain, Pyramid of Pain
-- Also building web apps with Python — see my [Web Dev GitHub](https://github.com/phil_code)
+- Also building web apps with Python — see my [Web Dev GitHub](https://github.com/phil-code-dotcom)
 
 ---
 
@@ -34,7 +34,7 @@ I document every lab, every tool, and every lesson publicly.
 
 ## 🌍 Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/philip-ajik-a22944384)
-- 💻 [Web Dev GitHub](https://github.com/phil_code)
+- 💻 [Web Dev GitHub](https://github.com/phil-code-dotcom)
 - 🐦 [X](https://x.com/phil_builds) 
 - 📱 [Telegram](https://t.me/phil_code)
 - 🎮 [Discord](https://discord.com/users/1417598425255641189)
