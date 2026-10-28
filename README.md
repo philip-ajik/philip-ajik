@@ -38,7 +38,7 @@ I document every lab, every tool, and every lesson publicly.
 - 🐦 [X](https://x.com/phil_builds) 
 - 📱 [Telegram](https://t.me/phil_code)
 - 🎮 [Discord](https://discord.com/users/1417598425255641189)
-- 📧 philipajik8@gmail.com
+- 📧 philipajik4@gmail.com
 
 ---
 *Learning every day. Documenting everything. Building toward CISO.*
